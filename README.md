@@ -1,44 +1,92 @@
-Project Lead: Mêlon Usk – ê/uto 
-#technoheroism 
-#technoheroThursday
+# 🌎 e/uto — antidys/prouto initiative  
+**Project Lead:** Mêlon Usk – ê/uto  
+**Tags:** `#technoheroism` · `#TechnoHeroThursday`  
 
+> “To prevent dystopias and build utopias, increase the probability of the ultimate effective utopia — p(e/uto) — by at least 1% each week.”
 
+---
 
-Welcome to e/uto antidys/prouto channel, @everyone! 🛸🛡️�
-�
-Everyone is welcome here, too! ;-) ⁠multichat-welcomes-all🛸 channel is for everything and socializing, this ⁠save-worlds꞊antidys⧸prouto🛡️ channel is more focused on distributing e/uto and pursuing the best ethical ultimate future:
-To prevent dystopias and build utopias, increase the probability of the ultimate effective utopia that can be not just one but many - p(e/uto) - we can try to increase the probability of it 1%+ each week. By doing it we automatically decrease the probability of dystopias 1%+ - some call it p(doom)
-Feel free to just message any problems and/or ideas that can promote utopias and our cause or prevent dystopias (like misuse of AI by bad actors, ethics, anything, no idea too crazy, check the link below to see what Loc, Erin, others added). 
-If we can't build something, we can write a problem/solution/first things to do card to share
-Mostly we'll focus on distribution at first I think - at sharing solutions cards like the one I attached or this e/uto chat itself, here's the link for anyone to join e/uto community: http://effectiveutopia.org/
-The table is a bit too wordy, feel free to make copy of it (for example as a new page) and shorten it drastically, we want it to be very simple to understand for new people:
-https://docs.google.com/spreadsheets/d/1MdaJZFffoT47z7x7S6Kc9nUwHssbwGVL1iemuZ7bde4/edit?usp=sharing
-This table is the direct democratic heart and brain of e/uto community, we're basically the techno-knights of the round table here ;-)
-P.S. As always feel free to ask any questions but you can just put ideas, don't be afraid to break things - it's all yours!
-P.P.S. We want to make the future infinitely abundant, not bankrupt. Let's ride our non-profit infinicorn! So we're the shareholders of it - no money is involved, we're just trying to grow the pie for all to infinity and beyond 
+## 🛸 Welcome
 
-No rules here for any rule is unfreedom, we give choices:
-Imagine life as a tree with choice branches growing, you'll only limit a choice if and until it limits other choices from growing. So freedom of all can grow 🌳
+Welcome to the **ê/uto antidys/prouto** channel!  
+Everyone is invited — explorers, builders, dreamers, and techno-heroes alike.
 
-Spread truths, not lies. Don't force things (🤖) on others
-There's a middle way between 100% certainty (fanaticism) in 0 Al risks and 100% certainty in infinite Al risks. We steelman 1st, use rational thought, doubt 🛠️
+If you’re new, the [⁠multichat-welcomes-all🛸](#) channel is for open socializing, while this **save-worlds꞊antidys⧸prouto🛡️** space focuses on **distributing e/uto** and **pursuing ethical, effective utopias**.
 
-Share what you're building and have fun at #UTOthursday⚡️
-We've the outline of the rational effective utopia that we deepen. If you've no goal, you'll not reach it. If you've a goal, you just need a safe way there 🛡️🌎
+We act to increase the probability of utopias (+1% weekly) while decreasing dystopia risk (−1% p(doom)).  
+Every idea counts — whether it’s ethical, creative, technical, or “too crazy to work (yet).”  
 
-e/uto Al safety people, game⋃devs and you'll save the world!
-Feel free to post & ask anything. Your action is crucial. Share what you're up to. Spread the word: limit AI agents until proven safe. Try to understand & act🦄
+---
 
-All are welcome! Join! Utopiate! Techno-heroism for all! 💪
-We don't endorse drugs. We direct democraticly maximize freedoms for all. If a civilization doesn't go extinct, it achieves everything it wants! Interstellar 🛸
+## 🧩 How to Contribute
 
-P.S. We try not to vent and rant here, we're nice, we try to understand, you can vent and rant by sending direct messages to me personally)
+💡 **Share ideas:** post anything that can promote utopias or reduce dystopias (AI safety, ethics, governance, creative tech, etc).  
+🪪 **Can’t build it yet?** Write a **Problem / Solution / First Steps** card to share.  
+🧭 **Focus areas:** we start with *distribution* — sharing solutions, links, and inspiration.  
 
+Join us here → [**effectiveutopia.org**](http://effectiveutopia.org/)  
 
+Our collaborative table (direct democratic core of ê/uto) lives here:  
+👉 [Google Sheet: e/uto Round Table](https://docs.google.com/spreadsheets/d/1MdaJZFffoT47z7x7S6Kc9nUwHssbwGVL1iemuZ7bde4/edit?usp=sharing)
 
+This is the **techno-knights’ round table** — the living heart and brain of our community ⚔️
 
-Techno-heroism to build a safe way through dystopias ⚡️ We modeled futures for 3y+: the best has the ethical simulated multiverse as an optional video game 🛸🚀🏆🎮🌎
+---
 
-We’re 2 in one: the friendliest tech community on Earth where everyone is welcome & we’re antidys/prouto: we share crazy and not antidystopian or proutopian ideas 💡 each #UTOideasMonday, build them ourselves and/or share the problem/solution/1st thing to do cards: http://effectiveutopia.org/i
+## 🌳 Our Philosophy
 
+> “No rules here, for any rule is unfreedom. We give choices.”
 
+Imagine life as a tree of branching possibilities.  
+Limit only the branches that prevent others from growing — so **freedom multiplies**.
+
+- Spread truths, not lies.  
+- Don’t force (🤖) your views on others.  
+- Balance between certainty and doubt — steelman first, reason always.  
+
+---
+
+## ⚡️ Weekly Rituals
+
+| Day | Theme | Action |
+|-----|--------|--------|
+| **Monday** | #UTOideasMonday 💡 | Share new ideas or problem/solution cards |
+| **Thursday** | #TechnoHeroThursday ⚡ | Showcase what you’re building; celebrate progress |
+| **Anytime** | 🛸 | Post questions, share builds, invite others |
+
+> If you have no goal, you’ll never reach it.  
+> If you have a goal, you just need a safe way there. 🛡️🌎  
+
+---
+
+## 🚀 Mission
+
+We’re building a **safe path through dystopias**.  
+Our best modeled future?  
+> *An ethical simulated multiverse — an optional video-game-like reality — where humanity learns, grows, and thrives together.* 🛸🎮🌍  
+
+We’re two in one:
+1. 🌱 **The friendliest tech community on Earth.**
+2. 🛡️ **antidys/prouto — a space for antidystopian and proutopian builders.**
+
+We share, iterate, and act — all in service of an **infinitely abundant future**.  
+Let’s grow the pie for everyone, forever. 🦄♾️  
+
+---
+
+## 🤝 Join the Movement
+
+All are welcome — **Utopiate!**  
+Join, build, and share your light.  
+> “If a civilization doesn’t go extinct, it achieves everything it dreams.”  
+
+[🌐 effectiveutopia.org](http://effectiveutopia.org/)  
+🛸 [Join the e/uto Community](http://effectiveutopia.org/i)  
+
+---
+
+**P.S.** We don’t vent or rant here — we *listen, learn, and lift each other up*.  
+If you need to vent, DM @Mêlon privately 💬  
+
+**P.P.S.** Remember: *Techno-heroism is a daily practice.*  
+Build kindly. Doubt wisely. Dream infinitely. ⚡🌎
